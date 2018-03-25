@@ -29,9 +29,9 @@
     "url": "https://github.com/barrysteyn/node-scrypt.git"
   },
   "devDependencies": {
-    "mocha": "2.2.5",
-    "chai": "3.0.0",
-    "chai-as-promised": "^5.1.0"
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.1.0",
+    "mocha": "^2.5.3"
   },
   "dependencies": {
     "nan": "^2.0.8"
