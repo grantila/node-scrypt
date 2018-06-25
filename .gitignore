@@ -3,6 +3,6 @@ build/*
 *.DS_Store
 *.swp
 npm-debug.log
-scrypt/scrypt-1.2.0/config.h
-scrypt/scrypt-1.2.0/config.log
+scrypt/scrypt-1.2.1/config.h
+scrypt/scrypt-1.2.1/config.log
 scrypt/configuration/config_output

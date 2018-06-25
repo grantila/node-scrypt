@@ -1,0 +1,142 @@
+lib/scryptenc/scryptenc.o: lib/scryptenc/scryptenc.c \
+ /usr/include/stdc-predef.h scrypt_platform.h config.h \
+ /usr/include/assert.h /usr/include/features.h \
+ /usr/include/i386-linux-gnu/sys/cdefs.h \
+ /usr/include/i386-linux-gnu/bits/wordsize.h \
+ /usr/include/i386-linux-gnu/gnu/stubs.h \
+ /usr/include/i386-linux-gnu/gnu/stubs-32.h /usr/include/inttypes.h \
+ /usr/lib/gcc/i586-linux-gnu/4.9/include/stdint.h /usr/include/stdint.h \
+ /usr/include/i386-linux-gnu/bits/wchar.h /usr/include/stdio.h \
+ /usr/lib/gcc/i586-linux-gnu/4.9/include/stddef.h \
+ /usr/include/i386-linux-gnu/bits/types.h \
+ /usr/include/i386-linux-gnu/bits/typesizes.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/i586-linux-gnu/4.9/include/stdarg.h \
+ /usr/include/i386-linux-gnu/bits/stdio_lim.h \
+ /usr/include/i386-linux-gnu/bits/sys_errlist.h \
+ /usr/include/i386-linux-gnu/bits/stdio.h /usr/include/stdlib.h \
+ /usr/include/i386-linux-gnu/bits/waitflags.h \
+ /usr/include/i386-linux-gnu/bits/waitstatus.h \
+ /usr/include/i386-linux-gnu/bits/stdlib-bsearch.h \
+ /usr/include/i386-linux-gnu/bits/stdlib-float.h /usr/include/string.h \
+ /usr/include/xlocale.h /usr/include/i386-linux-gnu/bits/string.h \
+ /usr/include/i386-linux-gnu/bits/string2.h /usr/include/endian.h \
+ /usr/include/i386-linux-gnu/bits/endian.h \
+ libcperciva/crypto/crypto_aes.h libcperciva/crypto/crypto_aesctr.h \
+ libcperciva/crypto/crypto_entropy.h libcperciva/util/humansize.h \
+ libcperciva/util/insecure_memzero.h libcperciva/alg/sha256.h \
+ libcperciva/util/sysendian.h lib/crypto/crypto_scrypt.h \
+ /usr/include/unistd.h /usr/include/i386-linux-gnu/bits/posix_opt.h \
+ /usr/include/i386-linux-gnu/bits/environments.h \
+ /usr/include/i386-linux-gnu/bits/confname.h libcperciva/util/getopt.h \
+ /usr/include/setjmp.h /usr/include/i386-linux-gnu/bits/setjmp.h \
+ /usr/include/i386-linux-gnu/bits/sigset.h lib/util/memlimit.h \
+ lib/scryptenc/scryptenc_cpuperf.h lib/scryptenc/scryptenc.h
+
+/usr/include/stdc-predef.h:
+
+scrypt_platform.h:
+
+config.h:
+
+/usr/include/assert.h:
+
+/usr/include/features.h:
+
+/usr/include/i386-linux-gnu/sys/cdefs.h:
+
+/usr/include/i386-linux-gnu/bits/wordsize.h:
+
+/usr/include/i386-linux-gnu/gnu/stubs.h:
+
+/usr/include/i386-linux-gnu/gnu/stubs-32.h:
+
+/usr/include/inttypes.h:
+
+/usr/lib/gcc/i586-linux-gnu/4.9/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/i386-linux-gnu/bits/wchar.h:
+
+/usr/include/stdio.h:
+
+/usr/lib/gcc/i586-linux-gnu/4.9/include/stddef.h:
+
+/usr/include/i386-linux-gnu/bits/types.h:
+
+/usr/include/i386-linux-gnu/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/lib/gcc/i586-linux-gnu/4.9/include/stdarg.h:
+
+/usr/include/i386-linux-gnu/bits/stdio_lim.h:
+
+/usr/include/i386-linux-gnu/bits/sys_errlist.h:
+
+/usr/include/i386-linux-gnu/bits/stdio.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/i386-linux-gnu/bits/waitflags.h:
+
+/usr/include/i386-linux-gnu/bits/waitstatus.h:
+
+/usr/include/i386-linux-gnu/bits/stdlib-bsearch.h:
+
+/usr/include/i386-linux-gnu/bits/stdlib-float.h:
+
+/usr/include/string.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/i386-linux-gnu/bits/string.h:
+
+/usr/include/i386-linux-gnu/bits/string2.h:
+
+/usr/include/endian.h:
+
+/usr/include/i386-linux-gnu/bits/endian.h:
+
+libcperciva/crypto/crypto_aes.h:
+
+libcperciva/crypto/crypto_aesctr.h:
+
+libcperciva/crypto/crypto_entropy.h:
+
+libcperciva/util/humansize.h:
+
+libcperciva/util/insecure_memzero.h:
+
+libcperciva/alg/sha256.h:
+
+libcperciva/util/sysendian.h:
+
+lib/crypto/crypto_scrypt.h:
+
+/usr/include/unistd.h:
+
+/usr/include/i386-linux-gnu/bits/posix_opt.h:
+
+/usr/include/i386-linux-gnu/bits/environments.h:
+
+/usr/include/i386-linux-gnu/bits/confname.h:
+
+libcperciva/util/getopt.h:
+
+/usr/include/setjmp.h:
+
+/usr/include/i386-linux-gnu/bits/setjmp.h:
+
+/usr/include/i386-linux-gnu/bits/sigset.h:
+
+lib/util/memlimit.h:
+
+lib/scryptenc/scryptenc_cpuperf.h:
+
+lib/scryptenc/scryptenc.h:
