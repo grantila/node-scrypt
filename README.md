@@ -14,7 +14,7 @@ as secure as possible.
 ## Node-Scrypt Version 6
 Version 6 is a major new release. It is by and large compatible with version 5.
  
-  * Scrypt version 1.2.0 is being used (a very recently released version of Scrypt)
+  * Scrypt version 1.2.1 is being used (a very recently released version of Scrypt)
   * Using Node's internal cryptographic libraries - for windows users, there is no need to use an external OpenSSL library anymore.
   * Using Node's OS module to check for freemem, meaning no need to use any system calls and therefore no external dependencies
 
