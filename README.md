@@ -75,6 +75,9 @@ More information can be found here:
    * Look [here](https://github.com/TooTallNate/node-gyp/wiki/Visual-Studio-2010-Setup) for additional information/helpful hints.
 
 ### Linux/MacOS
+Open SSL dev library:
+    Ubuntu: sudo apt install libssl-dev
+
 [Node-gyp](https://github.com/TooTallNate/node-gyp) is needed to build this module. It should be installed globally, that is, with the `-g` switch:
 
     npm install -g node-gyp
